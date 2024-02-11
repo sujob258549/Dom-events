@@ -1,7 +1,7 @@
 
 
-document.getElementById('update').addEventListener('click', function(){
-   const inputValu =  document.getElementById('inputs');
+document.getElementById('areabuttons').addEventListener('click', function(){
+   const inputValu =  document.getElementById('areatext');
    let cheng = inputValu.value;
 
    const p = document.getElementById('pushtext');
